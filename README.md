@@ -1,0 +1,2 @@
+# monopoly-simulation
+The monopoly simulation is coded in Java with object oriented approach. It is a term project for my "Object Oriented Software Design" course. This is a group project. We developed it with my classmate @nurdenizcayli. The documents and diagrams we prepared while developing the project are in the design-detail folder.
